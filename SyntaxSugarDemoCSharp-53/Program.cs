@@ -13,7 +13,7 @@ class Program
 
         //Inline if statement (ternary operator)
 
-        var age = 17;
+        var age = 33;
         
         Console.WriteLine(age >= 18 ? "You're an adult." : age < 5 ? "You're a child." : "You're a minor."); 
         
